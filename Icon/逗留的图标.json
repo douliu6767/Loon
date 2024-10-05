@@ -1,0 +1,26 @@
+{
+    "name": "App Icons",
+    "description": "By：逗留",
+    "icons": [
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/douliu6767/Loon/refs/heads/main/Icon/App/Telegram-02.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://raw.githubusercontent.com/douliu6767/Loon/refs/heads/main/Icon/App/GitHub.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/douliu6767/Loon/refs/heads/main/Icon/App/Google.png"
+        },
+        {
+            "name": "网易云音乐",
+            "url": "https://raw.githubusercontent.com/douliu6767/Loon/refs/heads/main/Icon/App/NeteaseMusic.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/douliu6767/Loon/refs/heads/main/Icon/App/TikTok.png"
+        }
+    ]
+}
